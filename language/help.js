@@ -1274,13 +1274,13 @@ wa.me/${ownernomer}
   ✎ Mhankbarbar
   ✎ Fatih Arridho
   ✎ Ryuka Team
-  ✎ Zeeone Ofc
+  ✎ Heroku Team
   ✎ Bagas Prdn
   ✎ Nurutomo
   ✎ OnX Dz
   ✎ Nekel
   ✎ Yoga
   ✎ Deff
-  ✎ Riy
+  ✎ Jorell
   `
   }
